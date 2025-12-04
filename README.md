@@ -1,4 +1,4 @@
-# Ansiversa Mini-App Starter
+# Ansiversa Mini-App Starter.
 
 This repository is the official starter template for all **Ansiversa Mini-Apps**.  
 Every app in the Ansiversa ecosystem begins with this structure—clean, fast, and consistent.
